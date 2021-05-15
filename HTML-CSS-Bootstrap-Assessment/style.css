@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #10828C;
+    color: white;
+}
+        #intro {
+            background-image: url("");
+            height: 100vh;
+        }
+H1 {
+    color: #10828C;
+}
+H2 {
+    color: #10828C;
+}
+H5 {
+    color: #10828C;
+}
+a  {
+    color: white;
+}
+.btn  {
+    background-color: #10828C;
+    color: white;
+}
