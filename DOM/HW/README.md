@@ -8,7 +8,6 @@
 | Create a single page using HTML/CSS that contains an input field and a submit button, all within a form element.                                 |            |        |
 | When the submit button is pressed, convert the inputted temperature from F to C using the appropriate conversion formula (may need to Google it) |            |        |
 | When user puts a value into the text field and clicks submit button, the page gets updated with the converted temperature value.                 |            |        |
-| When user puts a value into the text field and clicks submit button, the page gets updated with the converted temperature value.                 |            |        |
 
 ---
 
